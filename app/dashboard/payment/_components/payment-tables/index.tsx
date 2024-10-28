@@ -1,12 +1,10 @@
 'use client';
 
 import { DataTable } from '@/components/ui/table/data-table';
-import { DataTableFilterBox } from '@/components/ui/table/data-table-filter-box';
 import { DataTableResetFilter } from '@/components/ui/table/data-table-reset-filter';
 import { DataTableSearch } from '@/components/ui/table/data-table-search';
 import { columns } from './columns';
 import {
-  GENDER_OPTIONS,
   useEmployeeTableFilters
 } from './use-employee-table-filters';
 import { IPayment } from '@/services/payment/payment.type';
@@ -19,8 +17,6 @@ export default function EmployeeTable({
   totalData: number;
 }) {
   const {
-    genderFilter,
-    setGenderFilter,
     isAnyFilterActive,
     resetFilters,
     searchQuery,

@@ -7,7 +7,7 @@ import { Separator } from '@/components/ui/separator';
 import { cn } from '@/lib/utils';
 import { Plus } from 'lucide-react';
 import Link from 'next/link';
-import EmployeeTable from './employee-tables';
+import EmployeeTable from './payment-tables';
 import { useGetPaymentsQuery } from '@/services/payment/payment.api';
 
 export default function PaymentListingPage() {
