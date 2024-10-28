@@ -32,3 +32,11 @@ Follow these steps to clone the repository and start the development server:
 - `npm run dev`
 
 You should now be able to access the application at http://localhost:3000.
+
+## Screenshots
+![Screenshot from 2024-10-29 01-36-38](https://github.com/user-attachments/assets/c00f3dcd-63bb-43ce-b77f-985d9d4612b9)
+![Screenshot from 2024-10-29 01-37-48](https://github.com/user-attachments/assets/4650c343-053d-4f22-be2d-a1f85be3b90b)
+
+![Screenshot from 2024-10-29 01-38-19](https://github.com/user-attachments/assets/1239eafd-e560-4541-babc-e090873c1ffe)
+![Screenshot from 2024-10-29 01-38-32](https://github.com/user-attachments/assets/02c29581-8188-4dcc-95ba-35cde8365887)
+![Screenshot from 2024-10-29 01-38-46](https://github.com/user-attachments/assets/23d3f110-4f62-47dc-bbf1-39c4978566ef)
